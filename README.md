@@ -1,26 +1,29 @@
 # gildedRose-Refactoring-Kata
 
-This repo contains gildedRose-Refactoring-Kata. This sample is part for refactoring code with set of coding principles.
+This repo contains gildedRose-Refactoring-Kata code refactoring. 
+As per the requirement, customer wants to scale their business into multiple categories and keep existing functionality. The masterpiece for this use case is to refactor the existing code base and implement the new approaches to enhance the application to adopt more categories.
+
+# Main Tasks
+This model illustrates the best suitable way to refactor code with a set of coding principles that every developer should follow while implementing an application or feature.
 
  # Key Features
 
- This sample approach to implement clean and scalable code.
- Implemented with TDD approach
- Consider SOLID,DRY and KISS principles 
+ This sampling approach to implementing clean and scalable code.
+ This approach is implemented with the TDD approach and  Considered SOLID, DRY and KISS principles 
 
  # Getting Started
- This repo contains gildedRose-Refactoring-Kata. To get a local copy up and running follow below simple steps.
+ This repo contains gildedRose repository. To get a local copy up and running follow below simple steps.
 
  # Prerequisites
 
    .Net Core
-   Visual Studio 2017
+   At least Visual Studio 2017
    
  # Clone
- clone the repository https://github.com/prashanthNair/gildedRose-Refactoring-Kata.git and run the test to check application status
- Expected Behavior: All the test cases except one should pass
-
- Refactored UpdateQuality method in GildedRose class
-
- Implemented with polymorphism, abstraction, inheritance, factory patten and also considering SOLID, DRY principles
+ clone the repository https://github.com/prashanthNair/gildedRose-Refactoring-Kata.git and run the test to check the application status
+ Expected Behavior: All the test cases should pass except one( that is intended)
  
+ Implementation Contains existing code refactoring with the proper test suite, implemented core function for scaling futures and simple way to maintain and bug fixes.
+
+ Consider object oriented programming core principles such as polymorphism, abstraction, inheritance, and factory pattern and also consider SOLID, and DRY principles.
+
