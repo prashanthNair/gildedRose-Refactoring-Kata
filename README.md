@@ -20,7 +20,7 @@ This model illustrates the best suitable way to refactor code with a set of codi
    At least Visual Studio 2017
    
  # Clone
- clone the repository https://github.com/prashanthNair/gildedRose-Refactoring-Kata.git and run the test to check the application status
+ clone the repository https://github.com/prashanthNair/gildedRose-Refactoring-Kata.git and open the csharp.sln in Visual Studio then run the test to check the application status
  Expected Behavior: All the test cases should pass except one( that is intended)
  
  Implementation Contains existing code refactoring with the proper test suite, implemented core function for scaling futures and simple way to maintain and bug fixes.
