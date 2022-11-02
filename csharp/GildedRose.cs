@@ -12,9 +12,7 @@ namespace csharp
         public GildedRose(IList<Item> Items)
         {
             this.Items = Items;
-        }
-
-        
+        } 
 
         public void UpdateQuality()
         {
