@@ -20,7 +20,7 @@ namespace csharp
 
         public static string BACKSTAGE_PASSES_ITEM = "Backstage passes to a TAFKAL80ETC concert";
 
-        public static string CONJURED_ITEM = "Conjured";
+        public static string CONJURED_ITEM = "Conjured Mana Cake";
 
         public static string STANDARD_ITEM = "Standard item";
 

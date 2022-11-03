@@ -26,13 +26,13 @@ namespace csharp
                 else if (hasReachedHighestQualityValue(item))
                 {
                     item.Quality = QualityValues.highestValuePossible(item);
-                }
+                } 
             }
         }
 
         private IItem customisedItem(Item item)
         {
-            return new ItemFactory(item).customiseItem(item);
+            return new ItemFactory(item).createInstance(item);
         }
 
         private bool hasReachedHighestQualityValue(Item item)

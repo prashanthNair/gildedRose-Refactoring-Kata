@@ -35,7 +35,7 @@ namespace csharp.Items
         }
 
         private void DecreaseSellByDayValueByOne()
-        {
+        {            
             item.SellIn -= 1;
         }
 
