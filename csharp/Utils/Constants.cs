@@ -12,7 +12,7 @@ namespace csharp
 
         public static int LOWEST_QUALITY_VALUE_POSSIBLE = 0;        
 
-        public static int SULFURAS_HIGHEST_QUALITY_VALUE_POSSIBLE = 50;
+        public static int SULFURAS_HIGHEST_QUALITY_VALUE_POSSIBLE = 80;
 
         public static string SULFURAS = "Sulfuras, Hand of Ragnaros";
 
